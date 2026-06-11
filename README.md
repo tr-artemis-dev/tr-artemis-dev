@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello there!
 
-<!--
-**tr-artemis-dev/tr-artemis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Artemis, a certified software developer who now works as an IT service technician.
+My main programming language is Java, but in my free time I also work with Linux (Kali), 
+love the Unifi environment for networking, and enjoy tinkering with Raspberry Pi’s.
 
-Here are some ideas to get you started:
+## Tech Stack
+Java
+Linux
+Docker
+RaspberryPi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Infrastructure & Homelab
+- UniFi
+- Synology
+- Portainer
+
+## Tools
+IntelliJ IDEA
+WebStorm
+Notion
+Bitwarden
+
+## Other hobbies:
+
+- Music (guitar, piano, FL Studio)
+- Board games
+- Gaming
