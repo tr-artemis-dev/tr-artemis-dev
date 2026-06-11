@@ -6,6 +6,8 @@ love the Unifi environment for networking, and enjoy tinkering with Raspberry Pi
 
 ## Tech Stack
 - Java
+- JavaScript
+- TypeScript
 - Linux
 - Docker
 - RaspberryPi
