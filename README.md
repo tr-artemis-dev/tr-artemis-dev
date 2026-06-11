@@ -5,10 +5,10 @@ My main programming language is Java, but in my free time I also work with Linux
 love the Unifi environment for networking, and enjoy tinkering with Raspberry Pi’s.
 
 ## Tech Stack
-Java
-Linux
-Docker
-RaspberryPi
+- Java
+- Linux
+- Docker
+- RaspberryPi
 
 ## Infrastructure & Homelab
 - UniFi
@@ -16,10 +16,10 @@ RaspberryPi
 - Portainer
 
 ## Tools
-IntelliJ IDEA
-WebStorm
-Notion
-Bitwarden
+- IntelliJ IDEA
+- WebStorm
+- Notion
+- Bitwarden
 
 ## Other hobbies:
 
